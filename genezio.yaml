@@ -1,0 +1,9 @@
+frontend:
+    path: ./
+    publish: ./
+    scripts:
+        build: npm install
+        deploy: npm install
+name: material-kit
+region: us-east-1
+yamlVersion: 2
